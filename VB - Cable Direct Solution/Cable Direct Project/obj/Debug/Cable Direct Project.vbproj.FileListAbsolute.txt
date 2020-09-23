@@ -1,0 +1,24 @@
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.exe.config
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.exe
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.pdb
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.xml
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.vbprojAssemblyReference.cache
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable_Direct_Project.frmMain.resources
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable_Direct_Project.Resources.resources
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.vbproj.GenerateResource.cache
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.vbproj.CoreCompileInputs.cache
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.exe
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.xml
+C:\Users\contr\source\repos\Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.pdb
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.exe.config
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.exe
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.pdb
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\bin\Debug\Cable Direct Project.xml
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.vbprojAssemblyReference.cache
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\obj\Debug\Cable_Direct_Project.frmMain.resources
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\obj\Debug\Cable_Direct_Project.Resources.resources
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.vbproj.GenerateResource.cache
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.vbproj.CoreCompileInputs.cache
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.exe
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.xml
+C:\Users\contr\source\repos\VB - Cable Direct Solution\Cable Direct Project\obj\Debug\Cable Direct Project.pdb
