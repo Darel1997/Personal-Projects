@@ -10,14 +10,21 @@ public:
 			string hidden_word, choice, word;
 			char guess[1];
 			unsigned short int lives = 10;
+			bool bad_string = false;
 			cout << "Guess the Word Game\n\n";
 			do {
 				cout << "Enter a word to be guess: ";
 				getline(cin, word);
 				cout << "\n";
-				if (word.length() > 10 && )
-					cout << "Your word must be 10 characters long or less\n\n";
-			} while (word.length() > 10);
+				bad_string = false;
+				for (unsigned short int i = 0; i < word.length(); i++) {				
+					if (isdigit(word[i]) || !isalpha(word[i])) {
+						bad_string = true;
+						cout << "Your string can't contains numbers or/and specila characters\n\n";
+						break;
+					}
+				}
+			} while (bad_string == true);
 			system("cls");
 			hidden_word = word;
 			for (unsigned short int i = 0; i < word.length(); i++) {
@@ -60,7 +67,7 @@ public:
 				cout << "Game Over. The correct word was " << word;
 			cout << "\n\n";
 			do {
-				cout << "Wanna play again? ";
+				cout << "Want to play again? ";
 				cin >> choice;
 				cout << endl;
 				transform(choice.begin(), choice.end(), choice.begin(), toupper);
