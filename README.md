@@ -1,1 +1,1 @@
-# Coding-Projects
+Hi there, in this repository there's personal projects I've done on my spare time, along with some school projects. The purpose of this repository is to showcase my skills as a programmer. These projects helped me find my confidence as a programmer and being able to succesfully learn various languages. Hope you enjoy reviewing each of them.
